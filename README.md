@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://www.twitter.com/f0rkr">
-<img align="left" alt="Twitter"  src="https://img.icons8.com/color/2x/twitter.png" />
+<img align="left" alt="Twitter"  width="30px" src="https://img.icons8.com/color/2x/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/mashad/" target="_blank">
-  <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />
+  <img align="left" alt="Linkedin" width="30px" src="https://img.icons8.com/color/2x/linkedin.png" />
 </a>
 <br /><br />
 
