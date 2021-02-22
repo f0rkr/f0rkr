@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/2x/twitter.png" />
+<img align="left" alt="Twitter"  src="https://img.icons8.com/color/2x/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/ayoub-abounakif-49b93819a/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
