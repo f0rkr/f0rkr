@@ -7,7 +7,7 @@
 </a>
 <br /><br />
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=mashad)](https://github.com/f0rkr)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=mashad)](https://github.com/f0rkr)
 <br />
 <a href="https://github.com/f0rkr/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0rkr&layout=compact&theme=synthwave" alt="F0rkr's most used languages" />
